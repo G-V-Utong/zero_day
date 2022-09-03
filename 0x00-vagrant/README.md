@@ -1,0 +1,2 @@
+# uname
+prints system info
